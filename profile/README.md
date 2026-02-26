@@ -1,4 +1,4 @@
-# About Poker Bot Battle
+# About Poker Bot Battles
 
 Annually ITU Poker Bot Battle holds an exciting event, where a good poker face is not enough! 😎\
 During the event, you will code the best poker-playing algorithm to beat your competition. 👾 We're playing No Limit Texas Hold’em poker, and the algorithms are programmed in either Java or Python. 🐍\
